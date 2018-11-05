@@ -1,0 +1,9 @@
+.ModalForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ModalForm__name {
+  margin: 0 10px;
+}
